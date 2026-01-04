@@ -185,5 +185,5 @@ print_metrics(y_test, y_pred_ridge)
 print("Lasso")
 print_metrics(y_test, y_pred_lasso)
 
-df.head(10)
+df.head(15)
 
